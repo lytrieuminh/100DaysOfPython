@@ -1,4 +1,4 @@
-#Day 1: Variables
+# Day 1: Variables
 
 a = input("a: ")
 b = input("b: ")
@@ -7,4 +7,3 @@ a = b
 b = c
 print("a: " + a)
 print("b: " + b)
-
