@@ -1,4 +1,4 @@
-#Day 3: Pizza Order Practice
+# Day 3: Pizza Order Practice
 
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ")
@@ -23,4 +23,3 @@ if extra_cheese == "Y":
     bill += 1
 
 print(f"Your final bill is: ${bill}.")
-

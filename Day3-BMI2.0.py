@@ -1,4 +1,4 @@
-#Day 3: BMI 2.0
+# Day 3: BMI 2.0
 
 height = float(input("Enter your height in m: "))
 weight = float(input("Enter your weight in kg: "))
@@ -14,4 +14,3 @@ elif 30 <= bmi <= 35:
     print(f"Your BMI is {bmi}, you are obese.")
 else:
     print(f"Your BMI is {bmi}, you are clinically obese.")
-    

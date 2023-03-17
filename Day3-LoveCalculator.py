@@ -1,4 +1,4 @@
-#Day 3: Love Calculator
+# Day 3: Love Calculator
 
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
@@ -26,5 +26,3 @@ elif (love_score >= 40) and (love_score <= 50):
     print(f"Your score is {love_score}, you are alright together.")
 else:
     print(f"Your score is {love_score}.")
-
-    

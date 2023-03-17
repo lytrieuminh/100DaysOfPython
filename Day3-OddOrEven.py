@@ -1,9 +1,7 @@
-#Day 3: Odd Or Even
+# Day 3: Odd Or Even
 
 number = int(input("Which number do you want to check? "))
-if number%2 == 0:
-    print("This is an even number.") 
+if number % 2 == 0:
+    print("This is an even number.")
 else:
     print("This is an odd number.")
-
-    
